@@ -1,0 +1,1 @@
+import{c as s,o as a,d as o,u as t,R as r}from"./app-DjBUtK5Z.js";const c="/build/assets/sibrama-newage-PP7w5pap.png",n=["src"],m={__name:"ApplicationLogo",setup(l){return(e,p)=>(a(),s("div",r(e.$attrs,{class:"w-full flex justify-center"}),[o("img",{src:t(c),alt:"Sibrama Newage",class:"w-[70%] mx-auto"},null,8,n)],16))}};export{m as _};
